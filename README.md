@@ -2,7 +2,6 @@
 
 🎓 Final Year Student | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
-> “The best way to predict the future is to create it.” — Peter Drucker
 
 ---
 
@@ -19,7 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=cplusplus)
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
@@ -38,6 +37,7 @@
 ## 📊 GitHub Stats
 
 ![Preya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preyashah7&show_icons=true&theme=radical)
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preyashah7&layout=compact&theme=radical)
 
 ---
