@@ -1,6 +1,6 @@
 # Hello World! I'm Preya Shah 👋
 
-🎓 Final Year Student | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+🎓 3rd Year Student | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
 
 ---
