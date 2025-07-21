@@ -12,8 +12,13 @@
 
 ---
 
----
+### 💼 Projects
+- 🚀 [Prompt2ML](https://github.com/preyashah7/Prompt2ML-) – Natural Language to ML Pipeline Generator  
+- ✏ [CollabBoard](https://github.com/preyashah7/WhiteBoardWebApp) – Real-Time Collaborative Whiteboard with AI  
+- 🎯 [CareerSetGo](https://github.com/preyashah7/TicTechToe) – AI Virtual Career Advisor  
+- 📊 [TradeBot](https://github.com/preyashah7/DSA-Based-Trade-Bot) – Algorithmic Stock Trading Simulator  
 
+---
 ## 🛠️ Technologies & Skills
 
 ### 👨‍💻 Programming Languages
