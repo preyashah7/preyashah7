@@ -14,35 +14,28 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=preyashah7&show_icons=true&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=ffffff&text_color=888888&hide=contribs&rank_icon=github"/>
-
 **who am i?**
 
-cs student by day.  
-compulsive builder by night.  
-i care about systems that have  
-real depth — not just vibes.
+cs student by day. compulsive builder by night.
+i care about systems that have real depth — not just vibes.
 
-ships: `microservices` `rag pipelines`  
-`cloud deployments` `security-hardened apis`
+ships things in: `microservices` `rag pipelines` `cloud deployments` `security-hardened apis`
 
 📍 ldce, ahmedabad · graduating 2027
-
-<br clear="right"/>
 
 ---
 
 ```
- ┌─────────────────────────────────────────────────────────────┐
- │                        my stack                             │
- ├──────────────┬──────────────────────────────────────────────┤
- │  frontend    │  react · next.js · typescript · tailwind     │
- │  backend     │  node.js · express · fastapi · socket.io     │
- │  ai / ml     │  rag · faiss · scikit-learn · gemini api     │
- │  cloud       │  docker · azure · vercel                     │
- │  databases   │  mongodb · mysql · firebase                  │
- │  security    │  jwt · helmet.js · bcrypt · rate limiting    │
- └──────────────┴──────────────────────────────────────────────┘
+ ┌──────────────────────────────────────────────────────────────┐
+ │                         my stack                             │
+ ├───────────────┬──────────────────────────────────────────────┤
+ │  frontend     │  react · next.js · typescript · tailwind     │
+ │  backend      │  node.js · express · fastapi · socket.io     │
+ │  ai / ml      │  rag · faiss · scikit-learn · gemini api     │
+ │  cloud        │  docker · azure · vercel                     │
+ │  databases    │  mongodb · mysql · firebase                  │
+ │  security     │  jwt · helmet.js · bcrypt · rate limiting    │
+ └───────────────┴──────────────────────────────────────────────┘
 ```
 
 ---
@@ -60,11 +53,7 @@ ships: `microservices` `rag pipelines`
 
 <div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyashah7&layout=compact&hide_border=true&bg_color=111111&title_color=ffffff&text_color=666666"/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img height="130" src="https://github-readme-streak-stats.herokuapp.com?user=preyashah7&hide_border=true&background=111111&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyashah7&layout=compact&hide_border=true&bg_color=111111&title_color=ffffff&text_color=666666&langs_count=6"/>
 
 </div>
 
@@ -72,7 +61,7 @@ ships: `microservices` `rag pipelines`
 
 <div align="center">
 
-**the pinned repos below do the talking.**  
+**the pinned repos below do the talking.**
 but if you want to talk first —
 
 <br/>
